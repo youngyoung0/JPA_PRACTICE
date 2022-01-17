@@ -1,0 +1,2 @@
+# JPA_PRACTICE
+인프런 JPA활용1
